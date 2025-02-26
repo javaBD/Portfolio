@@ -1,4 +1,4 @@
-# Netflix Data Analysis: A Comprehensive Report
+# Netflix Data Analysis
 
 ## **1. Introduction**
 
@@ -29,7 +29,6 @@ The project followed a structured approach to ensure clarity and accuracy:
 
 2. **Data Cleaning:**
 
-   - Null and unknown values were identified and addressed.
    - Data inconsistencies (e.g., formatting issues) were resolved.
 
 3. **Data Transformation:**

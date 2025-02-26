@@ -1,5 +1,5 @@
 
-# Traffic Accidents Analysis: A Comprehensive Report
+# Traffic Accidents Analysis
 
 ## **1. Introduction**
 
