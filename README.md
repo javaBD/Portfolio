@@ -33,7 +33,7 @@ Hello! I am Javier, a data analyst passionate about uncovering valuable insights
 
 - **Description**: The Cafe Sales dataset provides a detailed look at the transactions made in a cafe. By analyzing this data, we can uncover patterns and trends in sales, customer preferences, and other key insights. This project aims to systematically analyze the cafe sales dataset to derive meaningful insights that can inform business strategy and decision-making.
 
-- **Link to Report**: [Traffic Accident Analysis](https://github.com/javaBD/Portfolio/blob/main/projects/python/Cafe_Sales/README.md)
+- **Link to Report**: [Cafe Sales](https://github.com/javaBD/Portfolio/blob/main/projects/python/Cafe_Sales/README.md)
 - **Link to Code**: [Project Code](https://github.com/javaBD/Portfolio/blob/main/projects/python/Cafe_Sales/cafe_sales.ipynb)
 
   
