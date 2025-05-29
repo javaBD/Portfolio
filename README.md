@@ -39,7 +39,7 @@ Hello! I am Javier, a data analyst passionate about uncovering valuable insights
   
 ## Contact
 
-You can contact me at <javierdifrancolaboral@gmail.com> or connect with me on [LinkedIn](https://www.linkedin.com/in/javier-di-franco-525553300/).
+You can contact me at <javierdifrancolaboral@gmail.com> or connect with me on [LinkedIn](https://www.linkedin.com/in/javier-di-franco-940202342/).
 
 ---
 
